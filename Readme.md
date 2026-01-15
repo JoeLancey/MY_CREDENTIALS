@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joe Lance M. Odtohan</h1>
+<h1 align="center">Hiiii!, I'm Joe Lance M. Odtohan</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 <h3 align="left">Connect with me:</h3>
